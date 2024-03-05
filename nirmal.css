@@ -1,0 +1,160 @@
+.ded{
+    display: flex;
+
+}
+#kvk{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 100px;
+    background-color: tomato;
+    height: 20px;
+  
+   
+}
+.k{
+    text-decoration: none;
+    margin-top: 15px;
+}
+#k{
+    border: 1px solid black;
+    height: 3px;
+    width: 22px;
+    background-color: black;
+    
+
+}
+.v{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 3px;
+    margin-top: 17px;
+}
+#vv{
+     border: 2px solid #FFFFE0; 
+    height: 700px;
+   
+    background: linear-gradient(90deg, #f0f07c, #e9aeae);
+   display: flex;
+
+ flex-direction: column;
+ 
+
+
+}
+input{
+    text-align: center;
+    background-color: tomato;
+    height: 30px;
+    width: 190px;
+    margin-top:  70px;
+    margin-left: 60px;
+}
+h1{
+    margin-top:  90px;
+    margin-left: 60px;
+}
+p{
+    margin-top:  40px;
+    margin-left: 60px;
+
+}
+
+.kk{
+    height: 700px;
+    width: 1460px;
+   
+    background: linear-gradient(90deg, #f0f07c, #e9aeae);
+    display: flex;
+    margin-top: 20px;
+}
+#b{
+    height: 250px;
+    width: 250px;
+    border: 1px solid black;
+    
+}
+#b1{
+    height: 250px;
+    width: 250px;
+    border: 1px solid black;
+    
+}
+#b2{
+    height: 500px;
+    width: 300px;
+    border: 1px solid black;
+    margin-left: 20px;
+    margin-top: 150px;
+    
+    
+}
+.b{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.c{
+    height: 250px;
+    width: 250px;
+}
+.c1{
+    height: 250px;
+    width: 250px;
+}
+.b{
+    margin-left: 70px;
+    margin-top: 150px;
+}
+.c2{
+    height: 500px;
+    width: 300px;
+
+}
+#k1{
+    height: 200px;
+    width: 400px;
+    border: 2px solid tomato;
+    margin-top: 300px;
+    margin-left: 45px;
+    background-color: tomato;
+}
+#n{
+height: 25px;
+width: 30px;
+margin-top: 15px;
+}
+#n2{
+    height: 10px;
+    width: 15px;
+    margin-left: 5px;
+    
+    }
+    .p1{
+        margin-top:  40px;
+        margin-left: 60px;
+    
+    }
+    
+    #x{
+        margin-left: 60px;
+        margin-top: 20px;
+
+    }
+    .ni{
+        height: 700px;
+        width: 760px;
+    }
+    .kumar{
+        height: 700px;
+        width: 700px;
+        
+        background: linear-gradient(90deg, #f0f07c, #e9aeae);;
+    }
+    .u{
+        height: 500px;
+        width: 600px;
+    }
